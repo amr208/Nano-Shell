@@ -5,10 +5,9 @@
 #include <sys/types.h>  
 #include <stdlib.h>     
 
-#define BUF_SIZE 100            // Maximum size of the input buffer
-#define LINUX_PWD_MAX 4096      // Maximum size for the current working directory path
-#define ECHO_MAX_WORDS 20       // Maximum number of words that can be parsed from input
-
+#define BUF_SIZE 100            
+#define LINUX_PWD_MAX 4096      
+#define ECHO_MAX_WORDS 20       
 // ====================================
 // 🔹 Global Variables
 // ====================================
